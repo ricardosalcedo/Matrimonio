@@ -115,7 +115,7 @@ h1 {
 }
 
 body {
-  background-image: url(img/rozo.jpg);
+  background-image: url(../img/rozo.jpg);
     background-size: cover;
   background-repeat: no-repeat;
   color: white;
