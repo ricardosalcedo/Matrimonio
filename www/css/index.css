@@ -114,9 +114,18 @@ h1 {
     -webkit-animation:fade 3000ms infinite;
 }
 
-body {
+
+div#page2 {
+  height: 100%;
+}
+
+div#page1 {
   background-image: url(../img/rozo.jpg);
-    background-size: cover;
+  background-size: cover;
   background-repeat: no-repeat;
-  color: white;
+  position: static;
+}
+
+a#login {
+  color: darkkhaki;
 }
